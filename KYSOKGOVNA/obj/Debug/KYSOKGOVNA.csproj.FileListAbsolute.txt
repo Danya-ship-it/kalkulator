@@ -1,0 +1,10 @@
+D:\IS 1-21\НИКОРЛВАФЛЖтдыу шд\KYSOKGOVNA\KYSOKGOVNA\bin\Debug\KYSOKGOVNA.exe.config
+D:\IS 1-21\НИКОРЛВАФЛЖтдыу шд\KYSOKGOVNA\KYSOKGOVNA\bin\Debug\KYSOKGOVNA.exe
+D:\IS 1-21\НИКОРЛВАФЛЖтдыу шд\KYSOKGOVNA\KYSOKGOVNA\bin\Debug\KYSOKGOVNA.pdb
+D:\IS 1-21\НИКОРЛВАФЛЖтдыу шд\KYSOKGOVNA\KYSOKGOVNA\obj\Debug\KYSOKGOVNA.csprojAssemblyReference.cache
+D:\IS 1-21\НИКОРЛВАФЛЖтдыу шд\KYSOKGOVNA\KYSOKGOVNA\obj\Debug\KYSOKGOVNA.Form1.resources
+D:\IS 1-21\НИКОРЛВАФЛЖтдыу шд\KYSOKGOVNA\KYSOKGOVNA\obj\Debug\KYSOKGOVNA.Properties.Resources.resources
+D:\IS 1-21\НИКОРЛВАФЛЖтдыу шд\KYSOKGOVNA\KYSOKGOVNA\obj\Debug\KYSOKGOVNA.csproj.GenerateResource.cache
+D:\IS 1-21\НИКОРЛВАФЛЖтдыу шд\KYSOKGOVNA\KYSOKGOVNA\obj\Debug\KYSOKGOVNA.exe
+D:\IS 1-21\НИКОРЛВАФЛЖтдыу шд\KYSOKGOVNA\KYSOKGOVNA\obj\Debug\KYSOKGOVNA.pdb
+D:\IS 1-21\НИКОРЛВАФЛЖтдыу шд\KYSOKGOVNA\KYSOKGOVNA\obj\Debug\KYSOKGOVNA.Form2.resources
